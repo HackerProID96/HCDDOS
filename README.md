@@ -62,7 +62,7 @@ HCDDOS is a simply python script, which can be used to Attack Website Until Down
 * `ls`
 * `cd HCDDOS`
 * `ls`
-* `python2 DDOSnow.py (Enter Your IP Here) 8080 100000`
+* `python2 DDOSnow.py (Enter Your IP Here) (Enter Your Port Here) (Enter Your Pacakage Here)`
 ```
 example: python2 36.86.63.185 8080 100000
 
