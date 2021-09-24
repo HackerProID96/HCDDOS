@@ -72,8 +72,7 @@ Hurray... you got his location with some more information
 ## USAGE OPTIONS [Termux] :
 
 __SCAN__ :
-- You can Get IP From :
-* `ping (Website Name)`
+- You can Get IP From : `ping (Website Name)`
 
 ## SCREEN SHOTS [Termux]
 
