@@ -7,7 +7,7 @@
 <a href="https://github.com/HackerProID96"><img title="Maintainence" src="https://img.shields.io/badge/Maintance%3F-no-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HackerProID96"><img title="HCDDOS" src="https://media.discordapp.net/attachments/890808224977154048/890808407571968010/20210924_105307.jpg"></a>
+<a href="https://github.com/HackerProID96"><img title="HCDDOS" src="https://media.discordapp.net/attachments/890808224977154048/890819208324186122/images.jpeg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/HackerProID96"><img title="Github" src="https://img.shields.io/badge/HackerProID96-brightgreen?style=for-the-badge&logo=github"></a>
