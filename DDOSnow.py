@@ -4,17 +4,17 @@ import random
 import sys
 def usage():
     print "\033[1;32m############################################################"
-    print "#-----------------------[\033[1;91mTAMFAN-DDOS\033[1;32m]-----------------------#"
-    print "#----------------------------------------------------------#"
-    print "#   \033[1;91mCommand: " "python2 DDOSnow.py " "<ip> <port> <packages> \033[1;32m #"
-    print "#                                                        ##"
-    print "#\033[1;91mName: HCDDOS  \033[1;32m##      #      #                     ##"
-    print "#\033[1;91mCreator: HackerProID96        \033[1;32m##     #      #                     ##"
-    print "#\033[1;91mVersion: 1.0        \033[1;32m##      #      #                     ##"
-    print "#\033[1;91mNote: Don't do this for a crime!  ##"
-    print "#                     \033[1;91m ##     \033[1;32m#  \033[1;91m  \033[1;32   ##"
-    print "#                     \033[1;91m##  \033[1;32m###   \033[1;91m  \033[1;32m   ##"
-    print "#               \033[1;91m<--[STARTING DDOS ATTACK]-->         \033[1;32m  ##"
+    print "------------------------[\033[1;91mHCDDOS\033[1;32m]------------------------"
+    print "------------------------------------------------------------"
+    print "    \033[1;91mCommand: " "python2 DDOSnow.py " "<ip> <port> <packages> \033[1;32m  "
+    print "                                                           "
+    print " \033[1;91mName: HCDDOS  \033[1;32m                                       "
+    print " \033[1;91mCreator: HackerProID96        \033[1;32m                                      "
+    print " \033[1;91mVersion: 1.0        \033[1;32m.                                      "
+    print " \033[1;91mNote: Don't do this for a crime!   "
+    print "                      \033[1;91m        \033[1;32m   \033[1;91m  \033[1;32     "
+    print "                      \033[1;91m    \033[1;32m      \033[1;91m  \033[1;32m     "
+    print "                \033[1;91m<--[HCDDOS ATTACK]-->         \033[1;32m    "
     print "############################################################"
 def flood(victim, vport, duration):
 
