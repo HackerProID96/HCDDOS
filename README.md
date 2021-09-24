@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/HackerProID96"><img title="Made in ENGLISH" src="https://img.shields.io/badge/MADE%20IN-ENGLISH-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://github.com/HackerProID96"><img title="Made in INDONESIA" src="https://img.shields.io/badge/MADE%20IN-INDONESIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/HackerProID96"><img title="Made in ENGLISH" src="https://img.shields.io/badge/Tool-HCDDOS-green.svg"></a>
@@ -79,8 +79,8 @@ __SCAN__ :
 
 <br>
 <p align="center">
-<img width="48%" src=""/>
-<img width="50%" src=""/>
+<img width="57%" src="https://media.discordapp.net/attachments/890546209952006157/890845552672145428/Screenshot_2021-09-24-13-12-51-18_84d3000e3f4017145260f7618db1d683.jpg"/>
+<img width="41%" src="https://media.discordapp.net/attachments/890546209952006157/890845552399491102/Screenshot_2021-09-24-12-37-08-76_84d3000e3f4017145260f7618db1d683.jpg"/>
 </p>
 
 ## WARNING : 
