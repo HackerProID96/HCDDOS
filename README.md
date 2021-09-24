@@ -2,7 +2,7 @@
 <a href="https://github.com/HackerProID96"><img title="Made in ENGLISH" src="https://img.shields.io/badge/MADE%20IN-ENGLISH-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HackerProID96"><img title="Made in ENGLISH" src="https://img.shields.io/badge/Tool-Ipdrone-green.svg"></a>
+<a href="https://github.com/HackerProID96"><img title="Made in ENGLISH" src="https://img.shields.io/badge/Tool-HCDDOS-green.svg"></a>
 <a href="https://github.com/HackerProID96"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://github.com/HackerProID96"><img title="Maintainence" src="https://img.shields.io/badge/Maintance%3F-no-green.svg"></a>
 </p>
@@ -72,7 +72,8 @@ Hurray... you got his location with some more information
 ## USAGE OPTIONS [Termux] :
 
 __SCAN__ :
-- You can Get IP From : `ping (Website Name)`
+- From this option you Can start DDOS Attack Website
+- You can get IP from : `ping (Website Name)`
 
 ## SCREEN SHOTS [Termux]
 
