@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/HackerProID96"><img title="Made in INDONESIA" src="https://img.shields.io/badge/MADE%20IN-INDONESIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://github.com/HackerProID96"><img title="Made in AMERICA" src="https://img.shields.io/badge/MADE%20IN-AMERICA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/HackerProID96"><img title="Made in ENGLISH" src="https://img.shields.io/badge/Tool-HCDDOS-green.svg"></a>
@@ -64,9 +64,9 @@ HCDDOS is a simply python script, which can be used to Attack Website Until Down
 * `ls`
 * `python2 DDOSnow.py (Enter Your IP Here) (Enter Your Port Here) (Enter Your Pacakage Here)`
 ```
-example: python2 36.86.63.185 8080 100000
+example: python2 127.0,0.1 8080 100000
 
-Hurray... you got his location with some more information
+Hurray... you did it
 
 ```
 ## USAGE OPTIONS [Termux] :
