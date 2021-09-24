@@ -7,7 +7,7 @@
 <a href="https://github.com/HackerProID96"><img title="Maintainence" src="https://img.shields.io/badge/Maintance%3F-no-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HackerProID96"><img title="Ipdrone" src="https://media.discordapp.net/attachments/890808224977154048/890808407571968010/20210924_105307.jpg"></a>
+<a href="https://github.com/HackerProID96"><img title="HCDDOS" src="https://media.discordapp.net/attachments/890808224977154048/890808407571968010/20210924_105307.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/HackerProID96"><img title="Github" src="https://img.shields.io/badge/HackerProID96-brightgreen?style=for-the-badge&logo=github"></a>
@@ -24,7 +24,7 @@
 
 ## ABOUT TOOL :
 
-Ipdrone is a simply python script, which can be used to Ip lookup and to get information of perticualr target Ip. This tool works on both rooted Android device and Non-rooted Android device.
+HCDDOS is a simply python script, which can be used to Attack Website Until Down, Don't use it to commit a crime. This tool works on both rooted Android device and Non-rooted Android device.
 
 <p align="center">
 <a href="https://github.com/HackerProID96"><img title="HackerProID96" src="https://media.discordapp.net/attachments/890779091081502741/890779752321925160/images_7.jpeg"></a>
